@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../JavaScript/My JavaScript"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Edge_ledger_website"
+	}
+}
